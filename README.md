@@ -7,7 +7,7 @@
 
 This project is a comprehensive end-to-end solution for acquiring, logging, and calibrating environmental data using the **DHT22** sensor. It encompasses the entire data pipeline: from embedded firmware reading raw sensor values, to a C++ desktop application for UART data logging, and finally, statistical analysis for sensor calibration.
 
-The system aims to minimize sensor error using **Linear Regression** and **Standard Deviation** analysis, providing a corrected and reliable temperature output.
+The system aims to minimize sensor error using **Linear Regression** and **Standard Deviation** analysis, providing a corrected and reliable temperature output...
 
 ---
 
