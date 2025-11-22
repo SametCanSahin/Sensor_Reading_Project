@@ -29,8 +29,7 @@ The repository is organized into three main modules:
 ### 3️⃣ 📊 Data Analysis & Calibration
 `📂 standart_dev_calculation_for_Rep`
 * **Role:** Statistical Analysis & Calibration.
-* **Description:** Processes the logged CSV data to calculate standard deviations and generate calibration curves.
-* **Method:** Uses **Linear Regression** to compare measured values against reference standards.
+* **Description:** Processes the logged CSV data to calculate standard deviations.
 
 ---
 
@@ -43,15 +42,6 @@ Based on tests conducted at three distinct reference points (Cold, Room, Super C
 | **23.8** | 23.72 | Room |
 | **10.0** | 10.28 | Cold |
 | **3.8** | 3.77 | Super Cold |
-
-### 🧮 Calibration Equation
-To obtain the true temperature ($T_{true}$), the raw sensor reading ($T_{measured}$) is corrected using:
-
-$$T_{true} = 1.0061 \times T_{measured} - 0.1351$$
-
-* **Slope (Gain):** 1.0061
-* **Offset:** -0.1351
-* **R²:** 0.9997 (High Linearity)
 
 ---
 
