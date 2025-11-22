@@ -2,7 +2,6 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Arduino-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🚀 About The Project
 
