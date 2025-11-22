@@ -71,5 +71,5 @@ $$T_{true} = 1.0061 \times T_{measured} - 0.1351$$
 
 ## 📬 Contact
 
-Developer: **[Your Name]**
+Developers: **[Samet Can Şahin and Murat Can Mutlu]**
 Project Link: [https://github.com/SametCanSahin/Sensor_Reading_Project](https://github.com/SametCanSahin/Sensor_Reading_Project)
